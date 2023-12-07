@@ -22,4 +22,16 @@ Held-Karp found should always be less than or equal to the tour length that
 Local Search found. Why is this?
 
 Add the code to run your experiments, graphs, and an explanation of what you did
-to this markdown file.
+to this markdown file.  
+
+**QUESTION:**  
+First of all, the Held-Karp algorithm has been improved, so it should now run  
+much better than before.  
+Second of all, when trying to run this code it manages to get the results for a matrix of sizes  
+1 through 18 without any issue. However, when I tried to give it a matrix of size  
+19, it runs forever. I ran it for 6 hours straight, and got absolutely no results  
+on my end. Please note that it isn't running out of space or anything, it simply  
+won't stop executing. Because of that, would it be okay if I just did the graph for the  
+18 values I do have (which are currently stated in text form up above) since  
+number 19 is guaranteed to be above an hour even though I don't know exactly by  
+how much?
