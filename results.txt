@@ -1,0 +1,108 @@
+Output:
+
+For a matrix with a size of 1:
+Held Karp: 0 | Distance Length: 0
+Local Search: 0 | Distance Length: 0
+
+
+
+For a matrix with a size of 2:
+Held Karp: 0.001 | Distance Length: 1
+Local Search: 0 | Distance Length: 1
+
+
+
+For a matrix with a size of 3:
+Held Karp: 0 | Distance Length: 2
+Local Search: 0 | Distance Length: 2
+
+
+
+For a matrix with a size of 4:
+Held Karp: 0 | Distance Length: 3
+Local Search: 0 | Distance Length: 3
+
+
+
+For a matrix with a size of 5:
+Held Karp: 0.001 | Distance Length: 4
+Local Search: 0 | Distance Length: 4
+
+
+
+For a matrix with a size of 6:
+Held Karp: 0.002 | Distance Length: 5
+Local Search: 0 | Distance Length: 7
+
+
+
+For a matrix with a size of 7:
+Held Karp: 0.016 | Distance Length: 6
+Local Search: 0 | Distance Length: 8
+
+
+
+For a matrix with a size of 8:
+Held Karp: 0.008 | Distance Length: 7
+Local Search: 0 | Distance Length: 14
+
+
+
+For a matrix with a size of 9:
+Held Karp: 0.021 | Distance Length: 8
+Local Search: 0.001 | Distance Length: 14
+
+
+
+For a matrix with a size of 10:
+Held Karp: 0.051 | Distance Length: 9
+Local Search: 0 | Distance Length: 24
+
+
+
+For a matrix with a size of 11:
+Held Karp: 0.129 | Distance Length: 10
+Local Search: 0 | Distance Length: 24
+
+
+
+For a matrix with a size of 12:
+Held Karp: 0.336 | Distance Length: 11
+Local Search: 0 | Distance Length: 31
+
+
+
+For a matrix with a size of 13:
+Held Karp: 0.81 | Distance Length: 12
+Local Search: 0.007 | Distance Length: 35
+
+
+
+For a matrix with a size of 14:
+Held Karp: 1.927 | Distance Length: 13
+Local Search: 0 | Distance Length: 37
+
+
+
+For a matrix with a size of 15:
+Held Karp: 4.894 | Distance Length: 14
+Local Search: 0 | Distance Length: 45
+
+
+
+For a matrix with a size of 16:
+Held Karp: 11.552 | Distance Length: 15
+Local Search: 0.001 | Distance Length: 27
+
+
+
+For a matrix with a size of 17:
+Held Karp: 27.633 | Distance Length: 16
+Local Search: 0.007 | Distance Length: 31
+
+
+
+For a matrix with a size of 18:
+Held Karp: 63.576 | Distance Length: 17
+Local Search: 0.007 | Distance Length: 76
+
